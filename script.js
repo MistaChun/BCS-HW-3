@@ -26,7 +26,7 @@ function upperCase1(){
         number();
     }
 }
-function chracter(){
+function character(){
     var askCharacters = confirm("Press OK if You would like just chracters");
     if(askCharacters){
         for(var i = 0, n = question; i < question; i++){
